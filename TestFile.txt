@@ -1,0 +1,13 @@
+FEATURE_ID|FEATURE_NAME|FEATURE_CLASS|STATE_ALPHA|STATE_NUMERIC|COUNTY_NAME|COUNTY_NUMERIC|PRIMARY_LAT_DMS|PRIM_LONG_DMS|PRIM_LAT_DEC|PRIM_LONG_DEC|SOURCE_LAT_DMS|SOURCE_LONG_DMS|SOURCE_LAT_DEC|SOURCE_LONG_DEC|ELEV_IN_M|ELEV_IN_FT|MAP_NAME|DATE_CREATED|DATE_EDITED
+1|NYU University|school|NY|123|New York|123|||1.0|1.0|||||15|50||||
+2|NYU Hospital|hospital|NY|123|New York|123|||1.2|1.1|||||15|50||||
+3|all NYU Cafe|cafe|NY|123|New York|123|||1.3|1.2|||||15|50||||
+4|City University|school|NY|123|New York|123|||1.7|1.0|||||15|50||||
+5|Cafe City Hall|cafe|NY|123|New York|123|||1.1|1.0||||||||||
+6|SF City Hospital|hospital|CA|153|San Francisco|153|||9.7|3.0|||||50|150||||
+7|Cafe Moonlight|cafe|NY|123|Westchester|133|||1.7|3.0|||||60|200||||
+8|Westchester Hospital|hospital|NY|123|Westchester||||||||||60|200||||
+9||river|NY|123|Westchester||||||||||60|200||||
+10|Hudson River|river|NY|123|Westchester||||||||||60|200||||
+11|River Bank|cafe|CA|153|San Francisco|||||||||||||||
+12|Blue River Cafe|cafe|CA|153|San Francisco|||||||||||||||
